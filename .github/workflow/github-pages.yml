@@ -15,12 +15,12 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.2
           bundler-cache: true
 
       - name: Build
         run:
-          bundle exec jekyll build --config _config.yml
+          bundle install && bundle exec jekyll build --config _config.yml
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
