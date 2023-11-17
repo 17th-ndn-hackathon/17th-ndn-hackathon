@@ -21,6 +21,7 @@ title: Program
 
 {:.table-condensed .table-striped .table-hover .program}
 
-09:00 - 12:00 | Hacking
+9:00 - 9:15 | Breakfast
+09:15 - 12:00 | Hacking
 12:00 - 12:30 | Lunch
 12:30 - 13:30 | Final presentations/demos, and closing remarks
