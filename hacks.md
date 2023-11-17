@@ -59,3 +59,82 @@ title: Hacks Proposals
 
 **Expected outcomes**
 - A Github PR
+
+
+## 3. OpenAPI Equivalent over NDN
+
+
+**Project Lead:**
+- Xinyu Ma
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- Provide general API for application use.
+
+**Briefly describe the tasks**
+- Explore the possibilities of implementing OpenAPI equivalent over NDN. It consists of two parts: the serialization with protobuf or JSON (with schema), and the RPC with SVS or modified RICE.
+
+**Any specific tools or language**
+- TypeScript, Python
+
+**Expected outcomes**
+- Prototype of OpenAPI over NDN and future development plan.
+
+
+
+## 4. NDN Workspace Development
+
+
+**Project Lead:**
+- Xinyu Ma
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- Further development of a (basically) usable NDN web app.
+
+**Briefly describe the tasks**
+- Discuss and solve on GitHub issues of the NDN workspace app.
+
+**Any specific tools or language**
+- NDNts and SolidJS
+
+**Expected outcomes**
+- Discussions and PRs on GitHub
+
+
+## 5. Testbed-in-a-box
+
+
+**Project Lead:**
+- Varun Patil
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- Make it easy to run an NDN network
+
+**Briefly describe the tasks**
+- Containerize NDN components and make it easily configurable
+
+**Any specific tools or language**
+- Docker, python3 or another scripting language
+
+**Expected outcomes**
+- An NDN testbed, in a box
