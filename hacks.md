@@ -138,3 +138,29 @@ title: Hacks Proposals
 
 **Expected outcomes**
 - An NDN testbed, in a box
+
+
+## 6. Define NDN Services in Extensible Markup Language
+
+
+**Project Lead:**
+- Tianxing Ma
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- A quick solution to bulld NDN services
+
+**Briefly describe the tasks**
+- Explore the possibility to define NDN service interfaces (input, output, and their data structures) in a standard format(xml), and explore the possibility to create a code generator to generate runnable code from these definitions. Also, think about its security. To begin with, the input and out would be defined as MAVlink messages in a xml file.
+
+**Any specific tools or language**
+- C++, NDNCXX, MAVlink, XML, NAC-ABE
+
+**Expected outcomes**
+- Some experience, maybe a standard to define the services
