@@ -190,3 +190,30 @@ title: Hacks Proposals
 
 **Expected outcomes**
 - A set of Dockerfiles and CI pipelines to automatically build and publish container images of the core NDN software.
+
+
+
+## 8. OpenTelemetry in NFD
+
+
+**Project Lead:**
+- Davide Pesavento
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- Improve the observability of NFD via OpenTelemetry (OTel)
+
+**Briefly describe the tasks**
+- Instrument NFD to export a few basic but useful traces and metrics in OTel-compliant format
+
+**Any specific tools or language**
+- C++, OpenTelemetry
+
+**Expected outcomes**
+- Upstreamable patches that implement basic OTel telemetry features in NFD. Demo a simple but functional setup that shows telemetry being collected from NFD and displayed in a web UI.
