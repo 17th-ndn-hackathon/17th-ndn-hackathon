@@ -61,7 +61,7 @@ title: Hacks Proposals
 - A Github PR
 
 
-## 3. OpenAPI Equivalent over NDN
+## <del> 3. OpenAPI Equivalent over NDN</del>
 
 
 **Project Lead:**
