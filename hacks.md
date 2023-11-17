@@ -164,3 +164,29 @@ title: Hacks Proposals
 
 **Expected outcomes**
 - Some experience, maybe a standard to define the services
+
+
+## 7. Containerize all the things!
+
+
+**Project Lead:**
+- Davide Pesavento
+
+<!-- Project Members: TBD -->
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with previous NDN experience
+
+**How does your proposal benefit NDN?**
+- Make the NDN stack easier to run on your machine and/or to deploy on a network of nodes.
+
+**Briefly describe the tasks**
+- Write a Dockerfile for NFD. Write a Dockerfile for a sample application (e.g., ndnpingserver). Write GitHub Actions workflows to build and publish the container images. Make sure other NDN applications can transparently use a containerized NFD. Write a sample docker-compose.yml that showcases how to integrate NFD with other services/applications.
+
+**Any specific tools or language**
+- docker, docker-compose, github actions
+
+**Expected outcomes**
+- A set of Dockerfiles and CI pipelines to automatically build and publish container images of the core NDN software.
