@@ -11,6 +11,7 @@ title: Committees
 ## Judging Committee
 - Lixia Zhang (UCLA)
 - Christos Papadopoulos (University of Memphis) 
+- Susmit  Shannigrahi (Tennessee Tech)
 - Alex Afanasyev (Florida International University)
 
 
