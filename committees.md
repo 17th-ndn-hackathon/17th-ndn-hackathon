@@ -9,8 +9,8 @@ title: Committees
 - [Suravi Regmi](mailto:sregmi1@memphis.edu) (University of Memphis)
 
 ## Judging Committee
-
 - Lixia Zhang (UCLA)
 - Christos Papadopoulos (University of Memphis) 
-- Susmit  Shannigrahi (Tennessee Tech)
+- Alex Afanasyev (Florida International University)
+
 
