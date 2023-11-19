@@ -8,7 +8,7 @@ title: Hacks Proposals
 {:toc}
 
 
-## 1.NDNts documentation and tutorial
+## <del>1.NDNts documentation and tutorial </del>
 
 
 **Project Lead:**
@@ -193,7 +193,7 @@ title: Hacks Proposals
 
 
 
-## 8. OpenTelemetry in NFD
+## <del>8. OpenTelemetry in NFD</del>
 
 
 **Project Lead:**
