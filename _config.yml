@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 include: ['CNAME', '.nojekyll']
 
-url: https://15th-ndn-hackathon.named-data.net
+url: https://16th-ndn-hackathon.github.io
 baseurl:
 
 plugins:
@@ -15,20 +15,20 @@ plugins:
 
 deadlines:
   - name: Registration deadline
-    date: November 16, 2023
+    date: February 22, 2024
   - name: Project Submission deadline
-    date: November 16, 2023
+    date: March 4, 2024
   - name: Acceptance notification
-    date: November 17, 2023
+    date: March 6, 2024
 
 # Configuration for permalink
 permalink: /:page.html
 
 # Configuration for site
-title: 15th Named Data Networking (NDN) Hackathon
-short_title: 15th NDN Hackathon
-description: November 18-19, 2023, UCLA, CS building- UCLA Engineering VI, 3rd floor , LA, California
-author: 15th NDN Hackathon Organizing Committee
+title: 16th Named Data Networking (NDN) Hackathon
+short_title: 16th NDN Hackathon
+description: March 8-10, 2024, National Institute of Standards and Technology (NIST), 100 Bureau Drive, Gaithersburg, Maryland
+author: 16th NDN Hackathon Organizing Committee
 #email: 13th-ndn-hackathon@named-data.net
 
 # Configuration for blog
@@ -45,16 +45,16 @@ navbar_list:
     link: /committees.html
   - name: Call for Hacks
     link: /cfh.html
-  - name: HACKS
-    link: /hacks.html
-  - name: Program
-    link: /program.html
+  # - name: HACKS
+  #   link: /hacks.html
+  # - name: Program
+  #   link: /program.html
   - name: Judging
     link: /judging.html
   - name: Code of Conduct
     link: /conduct.html
   - name: ">> REGISTER <<"
-    link: https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator
+    link: https://www.eventbrite.com/e/16th-ndn-hackathon-tickets-842423159347
 
 asides:
     github: true
@@ -73,7 +73,7 @@ twitter:
     widget_id: 698294519054278656
 
 github:
-   username: 14th-ndn-hackathon
+   username: 16th-ndn-hackathon
    count: 10000
 
 assets:

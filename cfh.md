@@ -4,6 +4,11 @@ title: Call for Hacks
 ---
 We solicit hackathon project proposals that advance the state of NDN. Participants will have approximately **two days** to work on their projects.
 
+<b style="font-size: 1.3em">
+    Proposals should be submitted via the [web form](https://forms.gle/UtQ7Sf2hzB8ef5Yj7).
+    <br/>
+    You also need to register for the hackathon [here](https://www.eventbrite.com/e/16th-ndn-hackathon-tickets-842423159347).
+</b>
 
 We encourage projects that:
 
@@ -25,9 +30,6 @@ With these, remote participants will be able to:
 We will also create a Slack channel for communication during the hackathon.
 
 ## Submission instructions
-
-Proposals should be submitted via the [web form](https://forms.gle/Eh6gw8fPaiV8ACXT8).
-You also need to register for the hackathon [here](https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator).
 
 Submissions should include:
 
