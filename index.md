@@ -3,7 +3,7 @@ layout: page
 title: Welcome to the 16th NDN Hackathon
 ---
 
-We are hosting a two-day NDN Hackathon (November 18-19, 2023). The event is open and free to participate in
+We are hosting a two-day NDN Hackathon (March 8-10, 2023). The event is open and free to participate in
 and winners will receive exciting prizes! This event targets all levels of participants and,
 particularly for beginners, will be an excellent opportunity to get started with NDN.
 
