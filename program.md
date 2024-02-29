@@ -8,34 +8,42 @@ title: Program
 This section of the event will take place at the venue of the [NDN Community Meeting, 2024](https://www.nist.gov/news-events/events/ndncomm2024).
 
 National Cybersecurity Center of Excellence (NCCoE) <br/>
-9700 Great Seneca Highway, Rockville, MD 20850
+9700 Great Seneca Highway, <br/>
+Rockville, MD 20850
 
 {:.table-condensed .table-striped .table-hover .program}
 
-TBD | Opening remarks, project pitches, team formation
+1 PM (tentative) | Opening remarks, project pitches, team formation
 
 ### Friday, March 8
+
+National Institute of Standards and Technology (NIST), <br/>
+100 Bureau Drive, <br/>
+Gaithersburg, Maryland
 
 No breakfast will be served at the venue. Please eat before arriving. <br/>
 Coffee and some snacks will be available in the morning.
 
-**Please arrive at the venue by 8:45AM for entry into the building.** <br/>
-**If you are late, you may not be able to enter the building.**
+**Important: You must bring valid identification for entry to the building.** <br/>
+**For Non-US Citizens**:  Please have your valid passport for photo identification. <br/>
+**For US Permanent Residents**: Please have your green card for photo identification. <br/>
+**For US Citizens**: Please have your state-issued driver's license.
 
-National Institute of Standards and Technology (NIST), <br/>
-100 Bureau Drive, Gaithersburg, Maryland
+NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card (CAC), Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.
 
 {:.table-condensed .table-striped .table-hover .program}
 9:00 - 12:30 | Hacking
-12:30 - 13:30 | Lunch
+12:30 - 13:30 | Lunch (provided)
 13:30 - 17:00 | Hacking
 
 ### Saturday, March 9
 
+Holiday Inn Gaithersburg, <br/>
+Two Montgomery Village Ave, <br/>
+Gaithersburg, MD 20879
+
 Lunch will not be available at the venue for this day. <br/>
 As a result, the time for lunch has been extended to account for travel time.
-
-Venue TBD
 
 {:.table-condensed .table-striped .table-hover .program}
 
