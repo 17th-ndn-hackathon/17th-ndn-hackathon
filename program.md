@@ -17,6 +17,7 @@ Rockville, MD 20850
 
 ### Friday, March 8
 
+Building 101 - Lecture Room D, <br/>
 National Institute of Standards and Technology (NIST), <br/>
 100 Bureau Drive, <br/>
 Gaithersburg, Maryland
