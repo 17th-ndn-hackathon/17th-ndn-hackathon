@@ -3,6 +3,8 @@ layout: page
 title: Program
 ---
 
+Please note that all times are in **Eastern Time (ET)**.
+
 ### Thursday, March 7
 
 This section of the event will take place at the venue of the [NDN Community Meeting, 2024](https://www.nist.gov/news-events/events/ndncomm2024).
@@ -13,7 +15,7 @@ Rockville, MD 20850
 
 {:.table-condensed .table-striped .table-hover .program}
 
-1 PM (tentative) | Opening remarks, project pitches, team formation
+13:10 - 13:40 | Opening remarks, project pitches, team formation
 
 ### Friday, March 8
 
