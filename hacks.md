@@ -235,6 +235,31 @@ title: Hacks Proposals
 - Optimize remote secure bootstrapping performance
 - Design a tool or set of tools that mitigate human errors in the trust schema design, so that it conforms to the current NDN certificate chain.
 
+## 10. SVS Performance Optimizations
+
+**Project Lead:**
+- Varun Patil
+
+**Prefered Team Size:**
+- 2-4
+
+**Targeted participant**
+- People with NDN code development experience
+
+**How does your proposal benefit NDN?**
+- State Vector Sync is a Sync protocol (NDN transport).
+- We want to improve the performance of SVS and reduce network overhead.
+
+**Briefly describe the tasks**
+- State vector prefix compression
+- Auto adjusting timers
+
+**Any specific tools or language**
+- ndn-cxx or NDNts
+
+**Expected outcomes**
+- Improve the performance of SVS
+
 <!--
 ## 1.
 
