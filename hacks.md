@@ -7,6 +7,7 @@ title: Hacks Proposals
 * TOC
 {:toc}
 
+Project pitch slides: https://drive.google.com/drive/folders/1-aUlcAtG3GlISRlzAnMaRMETX1fX7lth7LSI24WF-blX3IInQhWxp2t3ADt6bXPKktkSJm1Q?usp=sharing
 
 ## 1. Integration of mmWave with NDN/CCN using NS3 apps
 
