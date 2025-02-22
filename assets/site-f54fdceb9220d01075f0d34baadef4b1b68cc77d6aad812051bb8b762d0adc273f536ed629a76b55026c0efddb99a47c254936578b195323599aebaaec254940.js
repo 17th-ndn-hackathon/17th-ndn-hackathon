@@ -15310,7 +15310,7 @@ window.twttr = (function(d, s, id) {
 	    elm.empty().hide();
 	    var n = args.length-1;
             $.each(
-                $.grep(args, function(repo, i) { return (repo.name !== "16th-ndn-hackathon.github.io"); }),
+                $.grep(args, function(repo, i) { return (repo.name !== "17th-ndn-hackathon.github.io"); }),
                 function(i, repo) {
 	            elm.append('<li><p><a href="' + repo.html_url + '" target="_blank">' + repo.name + '</a>&nbsp;<span id="gh-' + repo.name + '"></span><br/>' +
                                '<small>' + repo.description + '</small><br/>' +
@@ -15350,7 +15350,7 @@ window.twttr = (function(d, s, id) {
 })(jQuery, window, document);
 
 $(function () {
-    $('#github-repo').showGitHubRepo('16th-ndn-hackathon', {
+    $('#github-repo').showGitHubRepo('17th-ndn-hackathon', {
 	count: 10000
     });
 });
