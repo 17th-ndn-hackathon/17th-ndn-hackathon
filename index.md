@@ -8,7 +8,7 @@ We are hosting a two-day NDN Hackathon (April 18-20, 2025). The event is open an
 and winners will receive exciting prizes! This event targets all levels of participants and,
 particularly for beginners, will be an excellent opportunity to get started with NDN.
 
-## [Register for the Hackathon](https://forms.gle/pX2BmNjP4oNrW6bA6)
+### [Register for the Hackathon](https://forms.gle/pX2BmNjP4oNrW6bA6)
 
 {% comment %}
 This year we are encouraging people to take a look at the [7 exciting categories]({% link hacks.md %})
