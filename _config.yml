@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 include: ['CNAME', '.nojekyll']
 
-url: https://16th-ndn-hackathon.named-data.net
+url: https://17th-ndn-hackathon.named-data.net
 baseurl:
 
 plugins:
@@ -45,16 +45,16 @@ navbar_list:
     link: /committees.html
   - name: Call for Hacks
     link: /cfh.html
-  - name: HACKS
-    link: /hacks.html
+#  - name: HACKS
+#    link: /hacks.html
   - name: Program
     link: /program.html
   - name: Judging
     link: /judging.html
   - name: Code of Conduct
     link: /conduct.html
-  # - name: ">> REGISTER <<"
-  #   link: https://www.eventbrite.com/e/16th-ndn-hackathon-tickets-842423159347
+  - name: ">> REGISTER <<"
+    link: https://forms.gle/pX2BmNjP4oNrW6bA6
 
 asides:
     github: true

@@ -2,7 +2,9 @@
 layout: page
 title: Program
 ---
-
+The Hackathon will be held at UCLA, April 18-20.
+More details to come.
+<!--
 Please note that all times are in **Eastern Time (ET)**.
 
 ### Thursday, March 7
@@ -53,3 +55,4 @@ As a result, the time for lunch has been extended to account for travel time.
 09:00 - 13:00 | Hacking
 13:00 - 14:30 | Lunch
 14:30 - 15:30 | Final presentations / demos, and closing remarks
+-->

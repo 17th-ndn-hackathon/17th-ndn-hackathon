@@ -3,14 +3,17 @@ layout: page
 title: Participant Guide
 ---
 
-### Action Items BEFORE the Hackathon
-
-- Please email your GitHub ID to 16th-ndn-hackathon@named-data.net.  We will create a GitHub repository
-for your project under the [hackathon organization](https://github.com/16th-ndn-hackathon).
-
-- Create web page explaining project at `16th-ndn-hackathon.named-data.net/<project-name>` using [GitHub Pages](https://pages.github.com/).
-
-### Action Items DURING the Hackathon
+[//]: # ([//]: # &#40;### Action Items BEFORE the Hackathon&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;- Please email your GitHub ID to 16th-ndn-hackathon@named-data.net.  We will create a GitHub repository&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;for your project under the [hackathon organization]&#40;https://github.com/16th-ndn-hackathon&#41;.&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;- Create web page explaining project at `16th-ndn-hackathon.named-data.net/<project-name>` using [GitHub Pages]&#40;https://pages.github.com/&#41;.&#41;)
+[//]: # ()
+[//]: # (### Action Items DURING the Hackathon)
 
 - **Hack!**
 
@@ -18,7 +21,7 @@ for your project under the [hackathon organization](https://github.com/16th-ndn-
 
     Note that documentation and tutorial projects should include running example code.
 
-- Update your web page
+- Document Your Project
 
     Include:
 
@@ -34,4 +37,4 @@ for your project under the [hackathon organization](https://github.com/16th-ndn-
 - Present your project to the panel of judges
 
     We encourage every team member to present their contribution.
-    Projects will be judged on the content of their project, web page, and presentation.
+    Projects will be judged on the content of their project and presentation.
