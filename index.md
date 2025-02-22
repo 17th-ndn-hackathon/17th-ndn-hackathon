@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the 16th NDN Hackathon
+title: Welcome to the 17th NDN Hackathon
 ---
 
 # 17th NDN Hackathon
