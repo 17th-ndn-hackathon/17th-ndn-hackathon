@@ -15,20 +15,20 @@ plugins:
 
 deadlines:
   - name: Registration deadline
-    date: February 22, 2024
+    date: April 1, 2025
   - name: Project Submission deadline
-    date: March 4, 2024
+    date: April 14, 2025
   - name: Acceptance notification
-    date: March 6, 2024
+    date: April 16, 2025
 
 # Configuration for permalink
 permalink: /:page.html
 
 # Configuration for site
-title: 16th Named Data Networking (NDN) Hackathon
-short_title: 16th NDN Hackathon
-description: March 8-9, 2024, National Institute of Standards and Technology (NIST), 100 Bureau Drive, Gaithersburg, Maryland
-author: 16th NDN Hackathon Organizing Committee
+title: 17th Named Data Networking (NDN) Hackathon
+short_title: 17th NDN Hackathon
+description: April 18-20, University of California Los Angeles (UCLA), Engineering VI Building, Los Angeles, California
+author: 17th NDN Hackathon Organizing Committee
 #email: 13th-ndn-hackathon@named-data.net
 
 # Configuration for blog
@@ -53,8 +53,8 @@ navbar_list:
     link: /judging.html
   - name: Code of Conduct
     link: /conduct.html
-  - name: ">> REGISTER <<"
-    link: https://forms.gle/pX2BmNjP4oNrW6bA6
+#  - name: ">> REGISTER <<"
+#    link: https://forms.gle/pX2BmNjP4oNrW6bA6
 
 asides:
     github: true
