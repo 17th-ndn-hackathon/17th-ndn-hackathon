@@ -55,8 +55,8 @@ navbar_list:
     link: /conduct.html
   - name: Guide
     link: /guide.html
-#  - name: ">> REGISTER <<"
-#    link: https://forms.gle/pX2BmNjP4oNrW6bA6
+  - name: ">> REGISTER <<"
+    link: https://forms.gle/pX2BmNjP4oNrW6bA6
 
 asides:
     github: true
