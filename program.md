@@ -5,7 +5,7 @@ title: Program
 The Hackathon will be held at UCLA, April 18-20.
 More details to come.
 
-
+<!--
 [//]: # ()
 [//]: # (Please note that all times are in **Eastern Time &#40;ET&#41;**.)
 
@@ -90,3 +90,4 @@ More details to come.
 [//]: # (13:00 - 14:30 | Lunch)
 
 [//]: # (14:30 - 15:30 | Final presentations / demos, and closing remarks)
+-->
