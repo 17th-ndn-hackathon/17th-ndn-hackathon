@@ -11,8 +11,10 @@ title: Committees
 ## Judging Committee
 To be determined
 
-[//]: # (- Lixia Zhang &#40;UCLA&#41;)
+<!--
+- Lixia Zhang (UCLA)
 
-[//]: # (- Susmit  Shannigrahi &#40;Tennessee Tech&#41;)
+- Susmit  Shannigrahi (Tennessee Tech)
 
-[//]: # (- Alex Afanasyev &#40;Florida International University&#41;)
+- Alex Afanasyev (Florida International University)
+-->

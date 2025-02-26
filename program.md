@@ -6,88 +6,88 @@ The Hackathon will be held at UCLA, April 18-20.
 More details to come.
 
 <!--
-[//]: # ()
-[//]: # (Please note that all times are in **Eastern Time &#40;ET&#41;**.)
 
-[//]: # ()
-[//]: # (### Thursday, March 7)
+Please note that all times are in **Eastern Time (ET)**.
 
-[//]: # ()
-[//]: # (This section of the event will take place at the venue of the [NDN Community Meeting, 2024]&#40;https://www.nist.gov/news-events/events/ndncomm2024&#41;.)
 
-[//]: # ()
-[//]: # (National Cybersecurity Center of Excellence &#40;NCCoE&#41; <br/>)
+### Thursday, March 7
 
-[//]: # (9700 Great Seneca Highway, <br/>)
 
-[//]: # (Rockville, MD 20850)
+This section of the event will take place at the venue of the [NDN Community Meeting, 2024](https://www.nist.gov/news-events/events/ndncomm2024).
 
-[//]: # ()
-[//]: # ({:.table-condensed .table-striped .table-hover .program})
 
-[//]: # ()
-[//]: # (13:10 - 13:40 | Opening remarks, project pitches, team formation)
+National Cybersecurity Center of Excellence (NCCoE) <br/>
 
-[//]: # ()
-[//]: # (### Friday, March 8)
+9700 Great Seneca Highway, <br/>
 
-[//]: # ()
-[//]: # (Building 101 - Lecture Room D, <br/>)
+Rockville, MD 20850
 
-[//]: # (National Institute of Standards and Technology &#40;NIST&#41;, <br/>)
 
-[//]: # (100 Bureau Drive, <br/>)
+{:.table-condensed .table-striped .table-hover .program}
 
-[//]: # (Gaithersburg, Maryland)
 
-[//]: # ()
-[//]: # (No breakfast will be served at the venue. Please eat before arriving. <br/>)
+13:10 - 13:40 | Opening remarks, project pitches, team formation
 
-[//]: # (Coffee and some snacks will be available in the morning.)
 
-[//]: # ()
-[//]: # (**Important: You must bring valid identification for entry to the building.** <br/>)
+### Friday, March 8
 
-[//]: # (**For Non-US Citizens**:  Please have your valid passport for photo identification. <br/>)
 
-[//]: # (**For US Permanent Residents**: Please have your green card for photo identification. <br/>)
+Building 101 - Lecture Room D, <br/>
 
-[//]: # (**For US Citizens**: Please have your state-issued driver's license.)
+National Institute of Standards and Technology (NIST), <br/>
 
-[//]: # ()
-[//]: # (NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card &#40;CAC&#41;, Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.)
+100 Bureau Drive, <br/>
 
-[//]: # ()
-[//]: # ({:.table-condensed .table-striped .table-hover .program})
+Gaithersburg, Maryland
 
-[//]: # (9:00 - 12:30 | Hacking)
 
-[//]: # (12:30 - 13:30 | Lunch &#40;provided&#41;)
+No breakfast will be served at the venue. Please eat before arriving. <br/>
 
-[//]: # (13:30 - 17:00 | Hacking)
+Coffee and some snacks will be available in the morning.
 
-[//]: # ()
-[//]: # (### Saturday, March 9)
 
-[//]: # ()
-[//]: # (Holiday Inn Gaithersburg, <br/>)
+**Important: You must bring valid identification for entry to the building.** <br/>
 
-[//]: # (Two Montgomery Village Ave, <br/>)
+**For Non-US Citizens**:  Please have your valid passport for photo identification. <br/>
 
-[//]: # (Gaithersburg, MD 20879)
+**For US Permanent Residents**: Please have your green card for photo identification. <br/>
 
-[//]: # ()
-[//]: # (Lunch will not be available at the venue for this day. <br/>)
+**For US Citizens**: Please have your state-issued driver's license.
 
-[//]: # (As a result, the time for lunch has been extended to account for travel time.)
 
-[//]: # ()
-[//]: # ({:.table-condensed .table-striped .table-hover .program})
+NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card (CAC), Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.
 
-[//]: # ()
-[//]: # (09:00 - 13:00 | Hacking)
 
-[//]: # (13:00 - 14:30 | Lunch)
+{:.table-condensed .table-striped .table-hover .program}
 
-[//]: # (14:30 - 15:30 | Final presentations / demos, and closing remarks)
+9:00 - 12:30 | Hacking
+
+12:30 - 13:30 | Lunch (provided)
+
+13:30 - 17:00 | Hacking
+
+
+### Saturday, March 9
+
+
+Holiday Inn Gaithersburg, <br/>
+
+Two Montgomery Village Ave, <br/>
+
+Gaithersburg, MD 20879
+
+
+Lunch will not be available at the venue for this day. <br/>
+
+As a result, the time for lunch has been extended to account for travel time.
+
+
+{:.table-condensed .table-striped .table-hover .program}
+
+
+09:00 - 13:00 | Hacking
+
+13:00 - 14:30 | Lunch
+
+14:30 - 15:30 | Final presentations / demos, and closing remarks
 -->
