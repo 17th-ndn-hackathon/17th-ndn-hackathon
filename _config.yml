@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 include: ['CNAME', '.nojekyll']
 
-url: https://a-thieme.github.io/17th-ndn-hackathon
+url: https://17th-ndn-hackathon.named-data.net
 baseurl:
 
 plugins:
