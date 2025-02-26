@@ -53,6 +53,8 @@ navbar_list:
     link: /judging.html
   - name: Code of Conduct
     link: /conduct.html
+  - name: Guide
+    link: /guide.html
 #  - name: ">> REGISTER <<"
 #    link: https://forms.gle/pX2BmNjP4oNrW6bA6
 
