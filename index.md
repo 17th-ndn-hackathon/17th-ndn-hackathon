@@ -4,7 +4,7 @@ title: Welcome to the 17th NDN Hackathon
 ---
 
 # 17th NDN Hackathon
-We are hosting a two-day NDN Hackathon (April 18-20, 2025). The event is open and free to participate in
+We are hosting a two-day NDN Hackathon (April 19-20, 2025). The event is open and free to participate in
 and winners will receive exciting prizes! This event targets all levels of participants and,
 particularly for beginners, will be an excellent opportunity to get started with NDN.
 
