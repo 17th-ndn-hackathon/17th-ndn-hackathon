@@ -7,259 +7,208 @@ title: Hacks Proposals
 * TOC
 {:toc}
 
-Project pitch slides: https://drive.google.com/drive/folders/1-aUlcAtG3GlISRlzAnMaRMETX1fX7lth7LSI24WF-blX3IInQhWxp2t3ADt6bXPKktkSJm1Q?usp=sharing
+Project pitch slides: [https://drive.google.com/drive/folders/1-aUlcAtG3GlISRlzAnMaRMETX1fX7lth7LSI24WF-blX3IInQhWxp2t3ADt6bXPKktkSJm1Q?usp=sharing](https://drive.google.com/file/d/14RVLTJHmKixIMHD65FjlzsExqbjSnyHT/view?usp=sharing)
 
-## 1. Integration of mmWave with NDN/CCN using NS3 apps
 
-**Project Lead:**
-- Kundan Kanti Saha
 
-**Prefered Team Size:**
-- 2-4
-
-**Targeted participant**
-- People with NDN code development experience
-
-**How does your proposal benefit NDN?**
-- mmWave is one of the technologies anticipated with 6G. It extends the current bandwidth utilisation of EM spectrum for network communication.
-- By integrating ICN with mmWave, two of the most anticipated developments of 6G can be combined to meet the changing demands of internet usage.
-
-**Briefly describe the tasks**
-- The tasks for the project are based on ndnSIM and NYUSIM apps of NS3 simulation tools.
-- The participants will have to combine ndnSIM and NYUSIM to create a hybrid app which can test any protocol/scheme based on ndnSIM to analyse its feasibility in 6G spectrum.
-
-**Any specific tools or language**
-- ndnSIM & NYUSIM (NS3 based apps)
-
-**Expected outcomes**
-- Test the outcome of simulating any existing/new protocol or scheme in the hybrid app developed by combining NYUSIM and ndnSIM in NS3.
-
-## 2. Chat on NDN Workspace
+## 1. Excalidraw on Ownly
 
 **Project Lead:**
 - Xinyu Ma
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- two
 
-**Targeted participant**
-- People new to NDN development
+**Targeted Participants:**
+- Someone new to NDN development
 
-**How does your proposal benefit NDN?**
-- Enable people using NDN Workspace to replace slack.
+**Goal of the Project:**
+- Add Excalidraw to ownly workspace. Allow shared figure drawing.
 
-**Briefly describe the tasks**
-- Implement chat functionalities in NDN workspace. Need a data model and mostly the front end.
+**Tasks of the Project:**
+- Use iframe to hold a Excalidraw editor and communicate via broadcast channel.
 
-**Any specific tools or language**
-- TypeScript
+**Specific Languages or Tools:**
+- N/A
 
-**Expected outcomes**
-- A Chat page in NDN Workspace.
 
-## 3. Workspace VSCode Plugin
+
+
+## 2. Select routers and profiles on Ownly
 
 **Project Lead:**
 - Xinyu Ma
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- two
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone with NDN code development experience
 
-**How does your proposal benefit NDN?**
-- Improve the usability of the NDN Workspace.
+**Goal of the Project:**
+- Allow users to connect to a different NDN node than SUNS, and have multiple profiles.
 
-**Briefly describe the tasks**
-- A VSCode plugin connecting to NDN Workspace, allowing editing files in the Workspace directly.
-- Need to implement the FileSystemProvider interface to let VSCode read Workspace files, and also watch VSCode document's TextDocumentChangeEvent to publish local editor changes to the Workspace in real time.
-- We can start from hard coded connection. There are some code snippets to copy from.
+**Tasks of the Project:**
+- Add corresponding Go API. Add frontend pages. Modify backend code to accept user configs
 
-**Any specific tools or language**
-- TypeScript
+**Specific Languages or Tools:**
+- Go
 
-**Expected outcomes**
-- A prototype of VSCode plugin connecting to NDN Workspace.
 
-## 4. Web of Trust Model for NDN Workspace
+
+
+## 3. Git over Ownly
 
 **Project Lead:**
-- Yekta Kocaoğullar
+- Xinyu Ma
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- three
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone with NDN code development experience
 
-**How does your proposal benefit NDN?**
-- This project is a continuation to ongoing efforts of adding functionalities to NDN Workspace, aiming to convert the current trust model of the application to Web of Trust.
+**Goal of the Project:**
+- Verify the design of running git over Ownly. Provide a detailed design or prototype code.
 
-**Briefly describe the tasks**
-- Fetch stranger certificate by keylocator
-- Request POR certificate issued by every other known (authenticated) user
-  - If my cert store has N other users, send N interests for each
-  - If not getting at least one POR, request an ID Token Data
-  - If ID Token Data not valid or non exist, abort as data verification failure
-- Cross-sign stranger public key as POR certificate
-- Putting POR certificate into cert store
-- Notify the POR subject a new POR is generated, let it fetch by name
-- POR subject serves all POR it received"
+**Tasks of the Project:**
+- Brainstorm and verify the design. Implement a quick prototype if time allows.
 
-**Any specific tools or language**
-- NDNts library, TypeScript
+**Specific Languages or Tools:**
+- Git.
 
-**Expected outcomes**
-- The NDN Workspace application should now use cross signed certificates for inter-trust zone communications.
 
-## 5. Dockerizing NDN
+
+
+## 4. ScapyNDN
 
 **Project Lead:**
-- Nidhi Panchal
+- Ashlesh Gawande
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- five
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone with NDN code development experience
 
-**How does your proposal benefit NDN?**
-- Dockerization makes it easy to run NDN services, without needing to spend time installing dependencies etc.
+**Goal of the Project:**
+- A feature-rich scapyndn library as polished/usable as possible
 
-**Briefly describe the tasks**
-- Learn Docker if no relevant experience
-- Create Dockerfile for each service
-- Create Docker compose that will start up sample service (i.e. NLSR + NFD)
-- Create image for build
+**Tasks of the Project:**
+- Tasks
+- Add documentation for current code [Covers all NDNv0.3 packets +
+some tools similar to nfdc/ndndump]
+     - Make public the existing code!
+- Add (missing) NFD management spec
+- Add NLSR packet/management spec + nlsrc like tool
+- Add NDNCERT packet spec + a tool
+- Add KeyChain - maybe look into using python-ndn’s
+     - Basic KeyChain is there to sign using default key
+     - Already uses python-ndn’s Face for send/rcv
+- Polish, add more unit tests where necessary, test on Windows
 
-**Any specific tools or language**
-- Docker
+**Specific Languages or Tools:**
+- python, scapy, reading
 
-**Expected outcomes**
-- Starting up new NDN services will be efficient and easy. Modification for the environment is also made simpler, since only a few lines in the Dockerfiles need to be updated.
 
-## 6. SDN + NDN with mini-NDN
 
-**Project Lead:**
-- Ziyang Xing
 
-**Prefered Team Size:**
-- 2-4
-
-**Targeted participant**
-- People with NDN code development experience
-
-**How does your proposal benefit NDN?**
-- Expanding the application scope of NDN is beneficial for achieving more functions
-
-**Briefly describe the tasks**
-- Expanding the application scope of NDN is beneficial for utilizing the controllers in SDN to operate NDN
-
-**Any specific tools or language**
-- python, shell, java
-
-**Expected outcomes**
-- In the SDN environment, achieving producer to consumer distribution of content,
-
-## 7. NDN Traffic Trace: stateful analysis & replay
+## 5. File Server & WebTransport in NDNd
 
 **Project Lead:**
 - Junxiao Shi
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- two
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone with NDN code development experience
 
-**How does your proposal benefit NDN?**
-- gain insights into NDN network usage; more faithfully replay traffic, making the trace useful
+**Goal of the Project:**
+- Submit file server and WebTransport implementations as Pull Requests to NDNd repository.
 
-**Briefly describe the tasks**
-- Write a program to perform Interest-Data matching from the packet traces and glean RTT information.
-- Enhance the NDN Trace Replay tool - support all Interest/Data fields available in the .ndjson trace.
+**Tasks of the Project:**
+- 1. Implement ndn6-file-server protocol in NDNd codebase.
+2. Implement WebTransport as a listener/face type in YaNFD.
 
-**Any specific tools or language**
-- NDNgo/python-ndn; ndn-cxx + ndnSIM
+**Specific Languages or Tools:**
+- Go programming language, quic-go library
 
-**Expected outcomes**
-- RTT report from traffic traces; enhanced NDN Trace Replay tool
 
-## 8. Beastify NFD
 
-**Project Lead:**
-- Junxiao Shi
 
-**Prefered Team Size:**
-- 2-4
-
-**Targeted participant**
-- People with NDN code development experience
-
-**How does your proposal benefit NDN?**
-- cleanup NFD codebase
-
-**Briefly describe the tasks**
-- NFD Feature #5207 autoconfig: allow NDN-FCH service over HTTPS
-- NFD Task #4972 migrate WebSocket face to Boost.Beast
-
-**Any specific tools or language**
-- C++ & Boost.Beast
-
-**Expected outcomes**
-- changes submitted to Gerrit
-
-## 9. Dynamic Rule Inference for Automating NDN Certificate Chain Validation
+## 6. Migrating to CMake (and Conan)
 
 **Project Lead:**
-- Adriana Viriato Ribeiro
+- Davide Pesavento
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- two
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone new to NDN development
 
-**How does your proposal benefit NDN?**
-- Facilitates NDN's remote secure bootstrapping, by automating the trust schema validation rules generation through dynamic rule inference.
+**Goal of the Project:**
+- Move to a more standard approach for building C++-based NDN software. Simplify dependency management. Make it easier to use NDN libraries (mainly ndn-cxx) in other projects.
 
-**Briefly describe the tasks**
-- Integrate certificate issuing and chain with the trust schema, in order to synchronize both tasks to avoid errors.
-- Also, optimize trust schema validation rules to allow fast certificate chain verification.
+**Tasks of the Project:**
+- Convert at least two C++ projects to CMake.
+Alternatively, convert one project + add dependency management to it via Conan.
 
-**Any specific tools or language**
-- The participants are encouraged to use C++, ndn-cxx and NDNCERT to assemble their solutions.
+**Specific Languages or Tools:**
+- None
 
-**Expected outcomes**
-- Provide an easy to use tool that integrates certificate generation and signing with the trust schema
-- Optimize remote secure bootstrapping performance
-- Design a tool or set of tools that mitigate human errors in the trust schema design, so that it conforms to the current NDN certificate chain.
 
-## 10. SVS Performance Optimizations
+
+
+## 7. Standalone C++ Module for Interest-Based NDN Repo Insertion
 
 **Project Lead:**
-- Varun Patil
+- Suravi Regmi
 
-**Prefered Team Size:**
-- 2-4
+**Preferred Team Size:**
+- two
 
-**Targeted participant**
-- People with NDN code development experience
+**Targeted Participants:**
+- Someone new to NDN development
 
-**How does your proposal benefit NDN?**
-- State Vector Sync is a Sync protocol (NDN transport).
-- We want to improve the performance of SVS and reduce network overhead.
+**Goal of the Project:**
+- This project addresses a limitation in earlier mGuard where data was inserted into the repo using bulk insert instead of Interest-based insertion. To support proper NDN workflows, a C++ version of the publisher API from ndn-python-repo was implemented inside mGuard.
 
-**Briefly describe the tasks**
-- State vector prefix compression
-- Auto adjusting timers
+The goal of this project is to decouple that logic from mGuard and turn it into a standalone, reusable C++ module that provides the same basic API as the Python-based publisher. The project involves extracting the existing logic, defining a clean C++ interface, and packaging it as a general-purpose component that can be used independently of mGuard or Python tooling.
 
-**Any specific tools or language**
-- ndn-cxx or NDNts
+**Tasks of the Project:**
+- Extract publisher logic from mGuard and remove mGuard-specific dependencies.
+Refactor and organize the code into a standalone module.
+Add build support (e.g., with a CMake file or other setup).
+Write minimal documentation for usage and integration.
 
-**Expected outcomes**
-- Improve the performance of SVS
+**Specific Languages or Tools:**
+- C++
+
+
+## 8. NDNd Improvements
+
+**Project Lead:**
+- Varun
+
+**Preferred Team Size:**
+- two
+
+**Targeted Participants:**
+- Someone new to NDN development
+
+**Goal of the Project:**
+- 1. (re-)Implement ethernet face for NDNd
+2. Implement FCH in NDNd
+
+**Tasks of the Project:**
+- https://github.com/named-data/ndnd/issues/70
+https://github.com/named-data/ndnd/issues/117
+
+**Specific Languages or Tools:**
+- Golang
+
 
 <!--
 ## 1.
