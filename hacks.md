@@ -7,6 +7,8 @@ title: Hacks Proposals
 * TOC
 {:toc}
 
+## See all reports [here](https://github.com/17th-ndn-hackathon/reports)
+
 Project pitch slides: [https://drive.google.com/drive/folders/1-aUlcAtG3GlISRlzAnMaRMETX1fX7lth7LSI24WF-blX3IInQhWxp2t3ADt6bXPKktkSJm1Q?usp=sharing](https://drive.google.com/file/d/14RVLTJHmKixIMHD65FjlzsExqbjSnyHT/view?usp=sharing)
 
 
@@ -31,7 +33,7 @@ Project pitch slides: [https://drive.google.com/drive/folders/1-aUlcAtG3GlISRlzA
 **Specific Languages or Tools:**
 - N/A
 
-
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/excalidraw.png)
 
 
 ## 2. Select routers and profiles on Ownly
@@ -110,7 +112,8 @@ some tools similar to nfdc/ndndump]
 **Specific Languages or Tools:**
 - python, scapy, reading
 
-
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/scapyndn-17th-ndn-hackathon.md)
+[repository[(https://github.com/17th-ndn-hackathon/scapy-ndn)
 
 
 ## 5. File Server & WebTransport in NDNd
@@ -134,6 +137,7 @@ some tools similar to nfdc/ndndump]
 **Specific Languages or Tools:**
 - Go programming language, quic-go library
 
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/http3.md)
 
 
 
@@ -158,6 +162,7 @@ Alternatively, convert one project + add dependency management to it via Conan.
 **Specific Languages or Tools:**
 - None
 
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/cmake.md)
 
 
 
@@ -186,6 +191,7 @@ Write minimal documentation for usage and integration.
 **Specific Languages or Tools:**
 - C++
 
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/17HackathonMGuardRepo.pdf)
 
 ## 8. NDNd Improvements
 
@@ -209,6 +215,7 @@ https://github.com/named-data/ndnd/issues/117
 **Specific Languages or Tools:**
 - Golang
 
+[report](https://github.com/17th-ndn-hackathon/reports/blob/main/NDNd-development.md)
 
 <!--
 ## 1.
